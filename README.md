@@ -86,5 +86,5 @@ The "Pre-Trained Model" section demonstrates the use of a pre-trained MobileNetV
 Feel free to explore and run the code sections as needed for your skin color analysis tasks. Make sure to replace image paths and dataset locations with your specific data.
 
 For any questions or issues, refer to the code comments and documentation, or reach out for assistance.
-
+helu...
 **Note**: This README provides an overview of the code's functionality and usage. Further details and code execution are required to perform skin color extraction and skin tone detection effectively.
